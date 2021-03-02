@@ -1,4 +1,6 @@
 # drone-monitoring
-A computer model of a distributed monitoring system for unmanned vehicles.
+Компьютерная модель распределенной системы мониторинга беспилотных транспортных средств.
+
+Видео демонстрация: https://drive.google.com/file/d/1mh-x4n4-6UJAxPMRVZsvDi1mVSud_e_w/view?usp=sharing
 
 Python 3.8.6, Visual Studio Code Version: 1.53.2
